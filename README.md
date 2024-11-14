@@ -1,1 +1,1 @@
-# Portfolio-Website
+A personal portfolio website built using HTML and CSS to showcase my skills, projects, and experience. This website serves as a digital resume and a platform to present my work to potential employers, clients, and collaborators.
